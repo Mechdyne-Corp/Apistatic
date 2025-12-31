@@ -1,0 +1,42 @@
+{
+  "query": "john",
+  "matches": [
+    {
+      "id": "EMP101",
+      "name": "John Carter",
+      "role": "Software Engineer"
+    },
+    {
+      "id": "EMP102",
+      "name": "John Smith",
+      "role": "Product Manager"
+    },
+    {
+      "id": "EMP103",
+      "name": "Johnny Davis",
+      "role": "QA Analyst"
+    },
+	{
+      "id": "EMP104",
+      "name": "Sarah Lee",
+      "role": "Developer"
+    },
+	{
+      "id": "EMP105",
+      "name": "Alice Johnson",
+      "role": "Product manager"
+    },
+	{
+      "id": "EMP106",
+      "name": "Joe Morris",
+      "role": "Dev Manager"
+    },
+	{
+      "id": "EMP107",
+      "name": "Joe Smith",
+      "role": "QA Analyst"
+    },	
+	
+  ],
+  "message": "Multiple matches found. Please specify an ID or full name."
+}
