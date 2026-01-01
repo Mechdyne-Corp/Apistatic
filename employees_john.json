@@ -1,0 +1,16 @@
+{
+  "query": "john",
+  "matches": [
+    {
+      "id": "EMP101",
+      "name": "John Carter",
+      "role": "Software Engineer"
+    },
+    {
+      "id": "EMP102",
+      "name": "John Smith",
+      "role": "Product Manager"
+    }
+  ],
+  "message": "Multiple matches found. Please specify an ID (e.g., EMP101) or the full name (e.g., John Carter)."
+}

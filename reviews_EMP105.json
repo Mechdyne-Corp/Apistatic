@@ -1,0 +1,28 @@
+{
+  "id": "EMP105",
+  "name": "Alice Johnson",
+  "role": "Product manager",
+  "reviews": [
+    {
+      "reviewId": "R101-EMP105",
+      "period": "Q1-2025",
+      "reviewType": "peer",
+      "reviewerName": "Sarah Lee",
+      "status": "Completed"
+    },
+    {
+      "reviewId": "R102-EMP105",
+      "period": "Q2-2025",
+      "reviewType": "manager",
+      "reviewerName": "Joe Morris",
+      "status": "In Progress"
+    },
+    {
+      "reviewId": "R103-EMP105",
+      "period": "Q3-2025",
+      "reviewType": "direct report",
+      "reviewerName": "John Carter",
+      "status": "Pending"
+    }
+  ]
+}

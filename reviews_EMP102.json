@@ -1,0 +1,28 @@
+{
+  "id": "EMP102",
+  "name": "John Smith",
+  "role": "Product Manager",
+  "reviews": [
+    {
+      "reviewId": "R101-EMP102",
+      "period": "Q1-2025",
+      "reviewType": "peer",
+      "reviewerName": "Johnny Davis",
+      "status": "Completed"
+    },
+    {
+      "reviewId": "R102-EMP102",
+      "period": "Q2-2025",
+      "reviewType": "manager",
+      "reviewerName": "Alice Johnson",
+      "status": "Completed"
+    },
+    {
+      "reviewId": "R103-EMP102",
+      "period": "Q3-2025",
+      "reviewType": "direct report",
+      "reviewerName": "Joe Smith",
+      "status": "In Progress"
+    }
+  ]
+}

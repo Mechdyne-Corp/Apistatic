@@ -1,0 +1,11 @@
+{
+  "query": "alice-johnson",
+  "matches": [
+    {
+      "id": "EMP105",
+      "name": "Alice Johnson",
+      "role": "Product manager"
+    }
+  ],
+  "message": "1 match found."
+}

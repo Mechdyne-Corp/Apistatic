@@ -1,0 +1,11 @@
+{
+  "query": "john-smith",
+  "matches": [
+    {
+      "id": "EMP102",
+      "name": "John Smith",
+      "role": "Product Manager"
+    }
+  ],
+  "message": "1 match found."
+}

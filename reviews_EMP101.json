@@ -1,0 +1,28 @@
+{
+  "id": "EMP101",
+  "name": "John Carter",
+  "role": "Software Engineer",
+  "reviews": [
+    {
+      "reviewId": "R101-EMP101",
+      "period": "Q1-2025",
+      "reviewType": "peer",
+      "reviewerName": "Alice Johnson",
+      "status": "Completed"
+    },
+    {
+      "reviewId": "R102-EMP101",
+      "period": "Q2-2025",
+      "reviewType": "direct report",
+      "reviewerName": "Sarah Lee",
+      "status": "In Progress"
+    },
+    {
+      "reviewId": "R103-EMP101",
+      "period": "Q3-2025",
+      "reviewType": "manager",
+      "reviewerName": "Joe Morris",
+      "status": "Pending"
+    }
+  ]
+}

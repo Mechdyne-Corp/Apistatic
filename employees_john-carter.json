@@ -1,0 +1,11 @@
+{
+  "query": "john-carter",
+  "matches": [
+    {
+      "id": "EMP101",
+      "name": "John Carter",
+      "role": "Software Engineer"
+    }
+  ],
+  "message": "1 match found."
+}
